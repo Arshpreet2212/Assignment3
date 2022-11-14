@@ -1,0 +1,24 @@
+
+/* Common Device Resolutions and Breakpoints */
+:root {
+    --xs-res: 375px;
+    --sm-res: 640px;
+    --md-res: 768px;
+    --lg-res: 1024px;
+    --xl-res: 1280px;
+    --2xl-res: 1536px;
+   
+    --gray-0: #f8f9fa;
+    --gray-100: #f1f3f5;
+    --gray-600: #868e96;
+    --gray-700: #495057;
+    --gray-800: #343a40;
+    --gray-900: #212529;
+   
+    --blue-800: #1971c2;
+   
+    --font-sm: 0.85rem;
+    --font-lg: 1.25rem;
+   
+    font-family: 'Poppins', sans-serif;
+   }
